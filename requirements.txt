@@ -1,0 +1,6 @@
+# Require this libraries and tools
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
